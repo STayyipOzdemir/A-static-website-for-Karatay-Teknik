@@ -1,0 +1,448 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\npm\bootstrap-icons@1.4.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\npm\bootstrap@5.0.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://www.karatayteknik.com.tr/
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/about.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\about.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/air.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\air.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/automotive.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\automotive.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/contact.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\contact.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.karatayteknik.com.tr/css/style.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\css\style.css
+Content Type: text/css
+
+Uri: https://www.karatayteknik.com.tr/defence.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\defence.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/img/1.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\1.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/2.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\2.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/3.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\3.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/4.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\4.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/5.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\5.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/5eksen.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\5eksen.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/altay.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\altay.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/arac.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\arac.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/atak.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\atak.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/automotive.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\automotive.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/büküm.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\büküm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/cmm.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\cmm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/defence.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\defence.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/dik_isleme.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\dik_isleme.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/durmabüküm1.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\durmabüküm1.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.karatayteknik.com.tr/img/fronius.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\fronius.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/hermle.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\hermle.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/hermle4.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\hermle4.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/hidrolik.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\hidrolik.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/imalat (1).jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\imalat (1).jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/jess.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\jess.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/kaan-2 (1).png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\kaan-2 (1).png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/kaan.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\kaan.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/karatay.mp4
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\karatay.mp4
+Content Type: video/mp4
+
+Uri: https://www.karatayteknik.com.tr/img/karatay_logo.jpeg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\karatay_logo.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/karatay_logo.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\karatay_logo.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/kaynak.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\kaynak.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/kesim.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\kesim.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/lazer-1.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\lazer-1.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/lazer-kesim.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\lazer-kesim.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/lazer.jpeg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\lazer.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/leadwell5.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\leadwell5.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/markalama.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\markalama.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/med.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\med.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/mekanik_tasarim.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\mekanik_tasarim.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/microcut.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\microcut.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/quote.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\quote.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/testereşerit.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\testereşerit.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/testere.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\testere.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/torna.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\torna.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/img/ventilation.jpg
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\ventilation.jpg
+Content Type: image/jpeg
+
+Uri: https://www.karatayteknik.com.tr/img/whatsapp.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\img\whatsapp.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/index.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\index.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\jquery-3.4.1.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/js/main.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://www.karatayteknik.com.tr/lib/counterup/counterup.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/easing/easing.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\easing\easing.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/lightbox/css/lightbox.min.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\lightbox\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://www.karatayteknik.com.tr/lib/lightbox/images/close.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\lightbox\images\close.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/lib/lightbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\lightbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://www.karatayteknik.com.tr/lib/lightbox/images/next.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\lightbox\images\next.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/lib/lightbox/images/prev.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\lightbox\images\prev.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/lib/lightbox/js/lightbox.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\lightbox\js\lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://www.karatayteknik.com.tr/lib/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://www.karatayteknik.com.tr/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/waypoints/waypoints.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/lib/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\lib\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/medical.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\medical.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/npm/bootstrap%405.0.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\npm\bootstrap@5.0.0\dist\js\bootstrap.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.karatayteknik.com.tr/quote.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\quote.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/service.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\service.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_about.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_about.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_air.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_air.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_automotive.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_automotive.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_contact.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_contact.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_defence.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_defence.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_index.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_index.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_medical.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_medical.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_quote.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_quote.html
+Content Type: text/html
+
+Uri: https://www.karatayteknik.com.tr/tr_service.html
+File Name: C:\Downloaded Web Sites\www.karatayteknik.com.tr\tr_service.html
+Content Type: text/html
+
